@@ -1,0 +1,5 @@
+Y:\GIT\MD\MD\bin\Debug\MD.exe.config
+Y:\GIT\MD\MD\bin\Debug\MD.exe
+Y:\GIT\MD\MD\bin\Debug\MD.pdb
+Y:\GIT\MD\MD\obj\Debug\MD.exe
+Y:\GIT\MD\MD\obj\Debug\MD.pdb
